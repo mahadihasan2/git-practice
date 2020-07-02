@@ -17,3 +17,20 @@ main{
     background-color: lightblue;
 
 }
+.footer{
+    background-color: lightblue;
+    color: black;
+    text-align: center;
+    border: 2px solid black;
+    margin-top: 10px;
+    height: 100px;
+}
+.btn{
+    background-color: black;
+    color: white ;
+    height: 50px;
+    width: 100px;
+    border-radius: 20px 60px;
+    outline: none;
+    margin-top: 10px;
+}
