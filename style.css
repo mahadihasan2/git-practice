@@ -1,7 +1,6 @@
 *{
     margin: 0;
     padding: 0;
-<<<<<<< HEAD
     box-sizing: border-box;
 }
 main{
@@ -11,7 +10,11 @@ main{
  
 
 }
+.navbar{
+    display: flex;
+    justify-content: space-between;
 
+}
 .box{
     width: 400px;
     height: 300px;
@@ -35,12 +38,5 @@ main{
     outline: none;
     margin-top: 10px;
 }
-=======
-    font-family: sans-serif;
-}
-.navbar{
-    display: flex;
-    justify-content: space-between;
 
-}
->>>>>>> header
+
